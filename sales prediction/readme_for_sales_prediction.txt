@@ -1,14 +1,12 @@
-Aim – To predict the sales of the Big Market .
+Aim – To predict the diabetes .
 
 Dataset Description --
-We have two csv files form kaggle related to Big market 
+We have one csv files form kaggle related to diabetes.
 sales -
-	1-file.csv (8523 * 12)
-	2-Predict.csv (5681 * 11)
+	1-diabetes(1).csv
+	
 file.csv  file contain both input and output variable(s). We need to predict the sales for the predict.csv data set.
 
-ItemOutletSales(only contain by file.csv file) ---- Sales of the product in the particular store. This is the outcome variable to be predicted.
-(we have to predict this column for predict.csv)
  
 Libraries Used --
 
@@ -20,5 +18,3 @@ Libraries Used --
 6. mean_absolute_error, mean_squared_error from sklearn.metrics is used to find absolute and mean square error for our model to estimate the model accuracy.
 7. sns is imported from seaborn to see the relationship between different column with outcome variable at a same time.
 Footer
-8.Extreme Gradient Boosting (XGBoost) is an open-source library that provides an efficient
- and effective implementation of the gradient boosting algorithm.z
