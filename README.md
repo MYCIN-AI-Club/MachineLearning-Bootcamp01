@@ -9,6 +9,15 @@
 <i>Keep the code/files clean and well formatted to make it easy for contributers to contribute to your project.</i>
 <br>
 
+## Available Projects:
+<ol>
+<li>BigMarket Sales Prediction</li>
+<li>Breast Cancer Prediction</li>
+<li>Diabetes Prediction</li>
+<li>Red Wine Quality Prediction</li>
+<li>Waiting for more...</li>
+</ol>
+
 ### Official Post: 
 <a href="https://www.instagram.com/p/CiSxYo7PoJn/">Instagram</a>
 <br><br><br><br>
