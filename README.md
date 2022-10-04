@@ -18,6 +18,15 @@
 <li>Waiting for more...</li>
 </ol>
 
+
+<br><br><br>
+## Contributors:
+#### Maintainer: <a href="github.com/kushagrathisside"><b>KUSHAGRA SRIVASTAVA</b></a>
+#### Other contributors:
+<a href="https://github.com/MYCIN-AI-Club/MachineLearning-Bootcamp01/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MYCIN-AI-Club/MachineLearning-Bootcamp01" />
+</a>
+
 ### Official Post: 
 <a href="https://www.instagram.com/p/CiSxYo7PoJn/">Instagram</a>
 <br><br><br><br>
