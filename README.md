@@ -23,8 +23,8 @@
 ## Contributors:
 #### Maintainer: <a href="github.com/kushagrathisside"><b>KUSHAGRA SRIVASTAVA</b></a>
 #### Other contributors:
-<a href="https://github.com/MYCIN-AI-Club/MachineLearning-Bootcamp/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MYCIN-AI-Club/MachineLearning-Bootcamp" />
+<a href="https://github.com/MYCIN-AI-Club/MachineLearning-Bootcamp01/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MYCIN-AI-Club/MachineLearning-Bootcamp01" />
 </a>
 
 ### Official Post: 
