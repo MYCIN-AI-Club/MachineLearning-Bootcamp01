@@ -13,8 +13,11 @@
 <ol>
 <li>BigMarket Sales Prediction</li>
 <li>Breast Cancer Prediction</li>
+<li>Customer Segmentation</li>
 <li>Diabetes Prediction</li>
 <li>Red Wine Quality Prediction</li>
+<li>Sales Prediction</li>
+<li>Stroke Prediction</li>
 <li>Waiting for more...</li>
 </ol>
 
