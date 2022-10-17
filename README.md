@@ -18,6 +18,7 @@
 <li>Red Wine Quality Prediction</li>
 <li>Sales Prediction</li>
 <li>Stroke Prediction</li>
+<li>Heart Disease Prediction</li>
 <li>Waiting for more...</li>
 </ol>
 
