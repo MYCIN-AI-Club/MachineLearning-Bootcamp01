@@ -18,7 +18,11 @@
 <li>Red Wine Quality Prediction</li>
 <li>Sales Prediction</li>
 <li>Stroke Prediction</li>
+<li>YOLO-Object-Detection</li>
+<li>Resume_Selection_with_ML</li>
+<li>Classification_Algorithms</li>
 <li>Heart Disease Prediction</li>
+<li>placement_predection file in python</li>
 <li>Waiting for more...</li>
 </ol>
 
